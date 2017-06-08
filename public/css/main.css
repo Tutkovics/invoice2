@@ -1,0 +1,18 @@
+h1{
+    /*color: #66abcc;*/
+}
+
+.list-group sum{
+    height:50px;
+    text-align:right;
+}
+
+.login .input-group{
+    width:100%
+}
+
+a h3,
+a h3:hover{
+    color: #333;
+    text-decoration: none;
+}
