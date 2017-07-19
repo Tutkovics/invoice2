@@ -33,7 +33,7 @@
 
     <div class="container" style="height:80%;padding-top:100px;" >
         <div class="row vertical-center-row">
-            <h1 class="display-1 text-center ">Üdv az oldalon</h1>
+            <h1 class="display-1 text-center ">Üdv az oldalon te retkes fasz</h1>
         </div>
     </div>
 
